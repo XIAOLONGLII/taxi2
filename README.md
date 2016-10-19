@@ -76,55 +76,7 @@
     </html>
     
     
+ 
     
-    /*Awesome Studetns*/
-body{
-    background-color:#DDEEFF
-}hearder{
-    margin: auto;
-    
-}footer{
-    font-weight: bold;
-    font-style: italic;
-    color:blue;
-    text-align: center;
-    
-}h1,h2,h3,h4,h5,h6{
-    background-color: yellow;
-    color:blue;
-    text-align: center;
-    
-}nav a{
-    color:white;
-    font-weight: bold;
-    padding:5em;
-}
-a:active{
-    color:yellow;
-    font-weight:bold;
-    
-}
-selector {
 
-property:value;
-
-}
-
-selector:pseudo­class {
-
-property:value;
-
-}
-
-.class {
-
-property:value;
-
-}
-
-#id {
-
-property:value;
-
-}
     
